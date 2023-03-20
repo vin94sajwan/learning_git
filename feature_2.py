@@ -6,7 +6,7 @@ for i in range(rows):
         print("* ", end="")
 
         print("Hello New World")
-	    print("Hello World")
+        print("Hello World")
         print("Hello World")
 
     print("\n")
